@@ -79,7 +79,17 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 This demo focuses on the basics of prompt engineering. You will learn how to provide context, write clear instructions, and split up big tasks to get accurate responses from Copilot.
 ```
 
-Navigate to <a href=copilot-prompt-engineering/README.md> copilot-prompt-engineering.
+Navigate to <a href=copilot-prompt-engineering/README.md> copilot-prompt-engineering.</a>
+
+### DEMO 2
+
+#### Create a JavaScript Calculator from scratch
+
+```text
+This demo will guide you through creating a simple calculator using Javascript. You will learn how to use Copilot to generate code snippets and iterate on the application.
+```
+
+Navigate to <a href=Javascript-calculator/README.md> Javascript Calculator.</a>
 
 #### Good Luck
 
