@@ -71,7 +71,7 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 
 ---
 
-### DEMO 1
+### DEMO 1 (and 5 sub-demos)
 
 #### Copilot prompt engineering
 
