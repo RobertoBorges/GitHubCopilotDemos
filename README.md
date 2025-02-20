@@ -91,6 +91,16 @@ This demo will guide you through creating a simple calculator using Javascript. 
 
 Navigate to <a href=Javascript-calculator/README.md> Javascript Calculator.</a>
 
+### DEMO 3
+
+#### Copilot Administration Security
+
+```text
+This demo will guide you through the security aspects of copilot administration. You will learn how to setup gardrails on your GitHub Organization to prevent unauthorized actions.
+```
+
+Navigate to <a href=copilot-administration-security/README.md> Copilot Administration Security.</a>
+
 #### Good Luck
 
 ## 🤝 Contributing
