@@ -71,7 +71,7 @@ This demo will show how to use other models with GitHub Copilot to get more pers
 This demo uses Claude 3.7 Sonnet Thinking model to generate a single page with animation using Claude 3.7 Model.
 </pre>
 
-Navigate to <a href=claude-3-7-Wheader-OneShot/README.md>Claude Wheader WebSite.</a>
+Navigate to <a href=claude-3-7-Wheader-OneShot/README.md>Use Claude3.7 to create wheather WebSite.</a>
 
 #### Copilot Administration Security
 
