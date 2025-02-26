@@ -16,59 +16,7 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 <img src="docs/images/copilot.png" alt="Copilot" width="50" align="center"/> +
 <img src="docs/images/copilot-chat.png" alt="Copilot Prompt" width="50" align="center"/>
 
----
-
-### Prompting Best Practices
-
-- Copilot Demos Repository
-  - 🎯 Goal
-    - Prompting Best Practices
-    - Cornerstones of Prompting
-  - ✍️ Programming Languages
-  - 💻 IDE
-  - 🗒️ Guide
-    - Prerequisites
-    - DEMO 1 (and 5 sub-demos)
-      - Copilot prompt engineering
-    - DEMO 2
-      - Create a JavaScript Calculator from scratch
-    - DEMO 3
-      - Copilot Administration Security
-  - GitHub Copilot in VS Code cheat sheet
-  - Chat with GitHub Copilot
-  - Code editing session
-  - Generate code from chat
-  - Attach context to your prompt
-  - Copilot in the editor
-  - Customize AI code generation
-  - Review code (experimental)
-  - Generate tests
-  - Generate documentation
-  - Debug and fix problems
-  - Scaffold a new project
-  - Source control and issues
-  - Search
-  - Terminal
-  - Python and Notebook support
-  - VS Code commands and APIs
-  - Next steps
-    - Good Luck
-  - 🤝 Contributing
-
-### Cornerstones of Prompting
-
-- Context :: Provide Examples
-  - Information to help GitHub Copilot understand the task better
-- Intent :: Give Directions
-  - The specific goal or purpose you have in mind when creating a prompt
-- Clarity :: Easy to Understand
-  - Being clear, transparent, and easily understood
-- Specificity :: Precision in Detail
-  - Providing precise and detailed information, leaving little room for ambiguity or interpretation
-
----
-
-## ✍️ Programming Languages
+## ✍️ Programming Languages on this repository
 
 **Javascript**
 **C#**
