@@ -47,9 +47,7 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 
 #### Copilot prompt engineering
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
 This demo focuses on the basics of prompt engineering. You will learn how to provide context, write clear instructions, and split up big tasks to get accurate responses from Copilot.
-</pre>
 
 Navigate to <a href=copilot-prompt-engineering/README.md> copilot-prompt-engineering.</a>
 
@@ -57,27 +55,21 @@ Navigate to <a href=copilot-prompt-engineering/README.md> copilot-prompt-enginee
 
 #### Create a JavaScript Calculator from scratch
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
 This demo will guide you through creating a simple calculator using Javascript. You will learn how to use Copilot to generate code snippets and iterate on the application.
-</pre>
 
 Navigate to <a href=Javascript-calculator/README.md> Javascript Calculator.</a>
 
 ### DEMO 3
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
 This demo will show how to use other models with GitHub Copilot to get more perspective on the code generation.
 
 This demo uses Claude 3.7 Sonnet Thinking model to generate a single page with animation using Claude 3.7 Model.
-</pre>
 
 Navigate to <a href=claude-3-7-Wheader-OneShot/README.md>Use Claude3.7 to create wheather WebSite.</a>
 
 #### Copilot Administration Security
 
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
 This demo will guide you through the security aspects of copilot administration. You will learn how to setup gardrails on your GitHub Organization to prevent unauthorized actions.
-</pre>
 
 Navigate to <a href=copilot-administration-security/README.md> Copilot Administration Security.</a>
 
