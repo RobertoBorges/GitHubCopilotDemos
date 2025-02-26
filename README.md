@@ -20,16 +20,40 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 
 ### Prompting Best Practices
 
-- Provide references
-  - Improve relevance of the response by providing an example and context
-- Write clear instruction
-  - Refine your prompt, provide context, write clearly, and give Copilot ample input for better results
-- Split up big tasks
-  - Breaking down complex tasks minimizes errors and utilizes previous outcomes for efficiency
-- Allow GitHub Copilot time to think
-  - Requesting Copilot’s thought process will enhance Copilot accuracy, but it may prolong wait times.
-- Test changes systematically
-  - Measure performance, watch for prompt changes' side effects, and use test suites for implementation
+- Copilot Demos Repository
+  - 🎯 Goal
+    - Prompting Best Practices
+    - Cornerstones of Prompting
+  - ✍️ Programming Languages
+  - 💻 IDE
+  - 🗒️ Guide
+    - Prerequisites
+    - DEMO 1 (and 5 sub-demos)
+      - Copilot prompt engineering
+    - DEMO 2
+      - Create a JavaScript Calculator from scratch
+    - DEMO 3
+      - Copilot Administration Security
+  - GitHub Copilot in VS Code cheat sheet
+  - Chat with GitHub Copilot
+  - Code editing session
+  - Generate code from chat
+  - Attach context to your prompt
+  - Copilot in the editor
+  - Customize AI code generation
+  - Review code (experimental)
+  - Generate tests
+  - Generate documentation
+  - Debug and fix problems
+  - Scaffold a new project
+  - Source control and issues
+  - Search
+  - Terminal
+  - Python and Notebook support
+  - VS Code commands and APIs
+  - Next steps
+    - Good Luck
+  - 🤝 Contributing
 
 ### Cornerstones of Prompting
 
@@ -92,6 +116,14 @@ This demo will guide you through creating a simple calculator using Javascript. 
 Navigate to <a href=Javascript-calculator/README.md> Javascript Calculator.</a>
 
 ### DEMO 3
+
+```text
+This demo will show how to use other models with GitHub Copilot to get more perspective on the code generation.
+
+This demo uses Claude 3.7 Sonnet Thinking model to generate a single page with animation using Claude 3.7 Model.
+```
+
+Navigate to <a href=claude-3-7-Wheader-OneShot/README.md>Claude Wheader WebSite.</a>
 
 #### Copilot Administration Security
 
