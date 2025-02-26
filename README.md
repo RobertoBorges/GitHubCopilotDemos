@@ -63,7 +63,7 @@ This demo uses Claude 3.7 Sonnet Thinking model to generate a single page with a
 
 Navigate to <a href=Claude-3-7-Wheader-OneShot/README.md>Use Claude3.7 to create wheather WebSite.</a>
 
-#### Lab Copilot Administration Security
+### Lab Copilot Administration Security
 
 This demo will guide you through the security aspects of copilot administration. You will learn how to setup gardrails on your GitHub Organization to prevent unauthorized actions.
 
