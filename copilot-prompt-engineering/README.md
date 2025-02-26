@@ -81,13 +81,13 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 #### Zero-shot
 
 ```text
-Write me unit tests for all the operations in my calculator.js file
+Write me unit tests for all the operations in my samples/calculator.js file
 ```
 
 #### One-Shot
 
  ```text
- Write me unit tests for all the operations in my calculator.js file
+ Write me unit tests for all the operations in my samples/calculator.js file
 Use the following example: test(‘adds 1 + 2 to equal 3’, () => ( expect(calculate(1, 2 ‘+’)).toBe(3); });
 ```
 
