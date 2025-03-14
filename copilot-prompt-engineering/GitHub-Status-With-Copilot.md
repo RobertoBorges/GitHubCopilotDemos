@@ -22,6 +22,7 @@ This exercise creates an MVC App that functions as an RSS Feeds client to report
 - Node xml2js
 - Node ejs
 - Node express
+- Claude 3.7 Sonnet Thinking model
 
 ----
 
