@@ -37,6 +37,14 @@ touch src/rssServer.js
 npm install express ejs xml2js
 ```
 
+```powershell
+mkdir -p src/views
+New-Item "src/rssReader.js"
+New-Item "src/views/status.ejs"
+New-Item "src/rssServer.js"
+npm install express ejs xml2js
+```
+
 ----
 
 ## Step 3 - In your Copilot IDE, Open All Created Files in Tabs
